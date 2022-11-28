@@ -2,4 +2,4 @@
 
 ## Editing the file
 
-Its an assingment file in this repository.
+Its an assignment file in this repository.
